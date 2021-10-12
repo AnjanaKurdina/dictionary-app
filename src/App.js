@@ -5,9 +5,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">Dictionary App</header>
-        <a href="#" className=" btn btn-primary">
-          Hello
-        </a>
+
         <footer>
           <div className="Footer">
             This website was coded by{" "}
