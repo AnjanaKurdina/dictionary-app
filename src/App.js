@@ -9,8 +9,8 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>
-          <div className="Footer">
+        <footer className="Footer">
+          <div>
             This website was coded by{" "}
             <a
               className="name-link"
