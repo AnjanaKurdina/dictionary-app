@@ -1,11 +1,16 @@
 .App-header {
   margin-top: 50px;
-  font-size: calc(10px + 2vmin);
+
   text-align: center;
+  font-weight: bold;
 }
 
 .Footer {
   margin: 50px;
   font-size: 12px;
   text-align: center;
+}
+
+body {
+  background-color: #ffe6eb;
 }
