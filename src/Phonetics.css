@@ -5,14 +5,16 @@
 .Phonetics a {
   text-decoration: none;
   border: solid 1px black;
-  color: #913175;
+  color: black;
   padding: 5px 10px;
-  border-radius: 10px;
+  border-radius: 15px;
   font-size: 12px;
+  font-weight: bold;
+  background-color: #f0fbf4;
 }
 
 .Phonetics a:hover {
-  background-color: #913175;
+  background-color: #bfe0fb;
   color: black;
 }
 .Phonetics .phonetic-text {
