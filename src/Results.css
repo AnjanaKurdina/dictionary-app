@@ -3,5 +3,5 @@ section {
   margin: 30px;
   padding: 20px;
   border-radius: 10px;
-  border: solid 2px black;
+  box-shadow: 5px 5px 5px 1px rgba(205, 205, 221, 0.2);
 }
